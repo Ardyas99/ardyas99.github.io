@@ -39,7 +39,7 @@
     width: 100%;
     padding: 0 15px;
     margin: 0 auto;
-    background-image: url(images/footer-image.jpg);
+    background-image: url(ardyas99.github.io/images/footer-image.jpg);
   }
 
 .dish-wrapper {
@@ -99,8 +99,7 @@ footer {
     color:white;
 }
 .footer-background {
-    background: url(ardyas99.github.io/images/footer-image.jpg);
-    background-size: cover;
+    
 }
 .title-logo  {
     color:white;
