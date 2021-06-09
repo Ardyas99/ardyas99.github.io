@@ -95,8 +95,11 @@
 footer {
     padding-top: 50px;
     padding-bottom:15px;
-    background-color: rgb(32, 37, 43);
     color:white;
+}
+.footer-background {
+    background-image: url(D:\Kukuh\Konsep Pribadi\FGA\html_lessontim\tim\images\footer-image.jpg);
+    background-size: cover;
 }
 .title-logo  {
     color:white;
@@ -109,9 +112,13 @@ footer {
     margin-bottom:50px;
     margin-right:10px;
 }
+.footer-info {
+    padding-left:10px;
+}
 .text {
     padding-bottom: 5px; 
 }
 .fa {
     margin-right: 5px;
+    color:orange;
 }
